@@ -9,20 +9,20 @@ export const Header = () => {
   return (
     <header>
       {/* LOGO */}
-      <Image src='/mglogo.png' alt='logo' width={50} height={50} />
-      <div className='absolute -top-24 -left-24 w-48 h-48 bg-black -z-40 border border-palette-4 rotate-45' />
+      <Image src="/mglogo.png" alt="logo" width={50} height={50} />
+      <div className="absolute -top-24 -left-24 w-48 h-48 bg-black -z-40 border border-palette-4 rotate-45" />
 
       {/* TITLE */}
       <div>
         <div
           className={`${cinzel.className} text-xl md:text-3xl text-palette-4 whitespace-nowrap`}
         >
-          Life Beyond
+          BLUSH
         </div>
         <div
           className={`${cinzel.className} -mt-2 pt-0 text-palette-4 whitespace-nowrap text-center`}
         >
-          ~ the Veil ~
+          ~ 2024 ~
         </div>
       </div>
 

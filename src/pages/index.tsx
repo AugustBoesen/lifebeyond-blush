@@ -10,35 +10,52 @@ export default function Index() {
         <title>Home | Life Beyond</title>
       </Head>
       {/* BACKGROUND IMAGE */}
-      <div className='background bg01' style={parallaxStyle}></div>
+      <div className="background bg01" style={parallaxStyle}></div>
 
       {/* CONTENT */}
       <main>
-        <h1>Welcome</h1>
-        <h2>Step through the Veil...</h2>
+        <h1>BLUSH 2024</h1>
+        <h3 className=" font-cinzel text-palette-4 font-bold">
+          Savonlinnan Kulttuurikellarilla 21.9.2024
+        </h3>
+        <h2> AVARUUSHALTIOITA & QUEER-AKTIVISMIA</h2>
+        <i>
+          "Kun jokaisen kasvot on maalattu sateenkaaren värein, ei poliisi voi
+          tietää, kenen posket punoittavat luonnostaan."{' '}
+        </i>
         <p>
-          Life Beyond (LiBe for short) is a fictional setting set in our modern
-          world. Alongside our observable reality lies a shadow society that
-          has.
+          Blush on queer-teemainen, scifimaailmaan sijoittuva baarilarppi
+          yhteisöllisyydestä, queer-kokemuksesta, identiteetistä, taiteesta ja
+          antikapitalistisesta aktivismista. Pelin tarina sijoittuu pieneen
+          baariin, Club Nebuloveen, jonne paikallinen queer-yhteisö kokoontuu
+          juhlimaan. Blushin hahmot ovat kaikki jollain tapaa in- tai offgame
+          vähemmistöä: mukana on laajasti erilaisia identiteettejä, sukupuolia,
+          seksuaalisuuksia ja perhemalleja, sekä myös scifimaailman omaa
+          alistettua vähemmistöä, laittomia tietoisia tekoälyjä.
         </p>
         <p>
-          The shadow society of Life Beyond is comprised by individuals known as
-          exites: humans exposed to the paranormal in such amounts that they,
-          too, have 'faded' away, reduced to a distant memory so easily
-          forgotten.
+          Pelin aikana on luvassa musiikkia ja juhlintaa, mutta aikaa on myös
+          monenlaiseen ihmissuhdedraamaan sekä queer- & scifiteemojen
+          pohdintaan. Pelin puolessa välissä käynnistyy vajaan tunnin mittainen
+          in-game lavashow, jossa nähdään mm. dragia. Pelin aikana on lyhyt
+          kohtaus, jossa paikalle saapuu poliisi, mutta kohtauksen tarkoituksena
+          on antaa hahmoille mahdollisuus huutaa virkavalta ulos bileistään.
         </p>
-        <h2>...And enter Life Beyond</h2>
+        <h2>Perustiedot</h2>
         <p>
-          The world of Life Beyond is generally used as a setting for LARPs
-          (Live Action events) and TTRPGs (TableTop RolePlaying Game sessions).
-          There are a variety of different subsettings used in the past,
-          including gang wars, paranormal private military company life,
-          world-ending magical threats, distant space operas and so many more.
+          Blush 2024 järjestetään lauantaina 21.9.2024 Savonlinnan
+          Kulttuurikellarilla.
         </p>
         <p>
-          There are several ongoing projects in the world of Life Beyond. If
-          you're interested, feel free to check out related events and
-          collaborators.
+          Peli on k17/k18. Pelaajahahmoja pelissä on 35, jonka lisäksi mukana on
+          NPCitä sekä mahdollisesti muutamia viime vuoden hahmoja. Pelimaksu on
+          25e-40e. Peli sopii hyvin myös aloittelijoille ja ensikertalaisille!
+        </p>
+        <p>
+          Peli ei ole varsinainen jatko-osa, eikä se ole uudelleenpelautus: voit
+          siis hakea mukaan vaikka et olisi pelannut ensimmäisessä Blushissa!
+          Vaikka edellisen pelin hahmoja saattaa olla mukana, on kyseessä
+          itsenäinen tapahtuma, ja suurin osa hahmoista on uusia.
         </p>
       </main>
     </div>

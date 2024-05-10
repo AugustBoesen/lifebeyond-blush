@@ -6,20 +6,24 @@ const merriweather = Merriweather({ weight: '400', subsets: ['latin'] });
 
 const navList = [
   {
-    name: 'Home',
+    name: 'Etusivu',
     href: '/',
   },
   {
-    name: 'Explore',
-    href: '/explore',
+    name: 'In-Game',
+    href: '/in-game',
   },
   {
-    name: 'Materials',
-    href: '/materials',
+    name: 'Käytäntö',
+    href: '/kaytanto',
   },
   {
-    name: 'About',
-    href: '/about',
+    name: 'Hae mukaan',
+    href: '/haku',
+  },
+  {
+    name: 'Taustalla',
+    href: '/taustalla',
   },
 ];
 export const Navbar = () => {
@@ -27,10 +31,10 @@ export const Navbar = () => {
   return (
     <nav className={`${merriweather.className}`}>
       {/* Desktop Navigation */}
-      <div className='hidden md:flex flex-row text-lg whitespace-nowrap text-palette-4'>
+      <div className="hidden md:flex flex-row text-lg whitespace-nowrap text-palette-4">
         {navList.map((item) => (
           <Link
-            className='mx-2 p-2 text-center hover:bg-white hover:bg-opacity-10 transition-all duration-300'
+            className="mx-2 p-2 text-center hover:bg-white hover:bg-opacity-10 transition-all duration-300"
             key={item.name}
             href={item.href}
           >
@@ -40,26 +44,26 @@ export const Navbar = () => {
       </div>
 
       {/* Mobile Navigation */}
-      <div className='flex md:hidden flex-col whitespace-nowrap text-palette-4'>
+      <div className="flex md:hidden flex-col whitespace-nowrap text-palette-4">
         <button onClick={() => setOpen(!open)}>
-          <svg viewBox='0 0 100 80' width='40' height='40'>
+          <svg viewBox="0 0 100 80" width="40" height="40">
             <rect
-              className='fill-palette-4'
-              y='10'
-              width='100'
-              height='10'
+              className="fill-palette-4"
+              y="10"
+              width="100"
+              height="10"
             ></rect>
             <rect
-              className='fill-palette-4'
-              y='35'
-              width='100'
-              height='10'
+              className="fill-palette-4"
+              y="35"
+              width="100"
+              height="10"
             ></rect>
             <rect
-              className='fill-palette-4'
-              y='60'
-              width='100'
-              height='10'
+              className="fill-palette-4"
+              y="60"
+              width="100"
+              height="10"
             ></rect>
           </svg>
         </button>
@@ -72,7 +76,7 @@ export const Navbar = () => {
           {' '}
           {navList.map((item) => (
             <Link
-              className='py-4 text-3xl'
+              className="py-4 text-3xl"
               onClick={() => setOpen(!open)}
               key={item.name}
               href={item.href}

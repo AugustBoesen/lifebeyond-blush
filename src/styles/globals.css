@@ -35,6 +35,9 @@
   p {
     @apply md:text-lg py-2 font-merriweather;
   }
+  li {
+    @apply md:text-lg py-2 ml-4 font-merriweather list-disc;
+  }
 }
 
 .background {
@@ -48,17 +51,21 @@
 }
 
 .bg01 {
-  background-image: url('/bg/bg01.jpg');
+  background-image: url('/bg/bg01.png');
 }
 
 .bg02 {
-  background-image: url('/bg/bg02.jpg');
+  background-image: url('/bg/bg02.png');
 }
 
 .bg03 {
-  background-image: url('/bg/bg03.jpg');
+  background-image: url('/bg/bg03.png');
 }
 
 .bg04 {
-  background-image: url('/bg/bg04.jpg');
+  background-image: url('/bg/bg04.png');
+}
+
+.bg05 {
+  background-image: url('/bg/bg05.png');
 }
