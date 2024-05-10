@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* The color palette is utilized through tailwind.config.ts */
+  --palette-1: #0e0f18;
+  --palette-2: #2f334b;
+  --palette-3: #bac1e7;
+  --palette-4: #f6b17a;
+}
+
+@layer base {
+  html {
+    @apply text-white bg-black;
+  }
+  header {
+    @apply z-50 bg-black border-b border-palette-4 backdrop-blur-sm bg-opacity-80 flex flex-row p-4 h-20 fixed w-full justify-between;
+  }
+  main {
+    @apply flex flex-col px-4 sm:px-8 md:px-16 pt-32 min-h-screen md:w-1/2;
+  }
+  footer {
+    @apply bg-black border-t border-palette-4 bg-opacity-50 flex flex-row p-4 h-40 relative justify-between;
+  }
+  h1 {
+    @apply md:text-7xl text-5xl py-6 text-palette-4 font-cinzel;
+  }
+  h2 {
+    @apply md:text-5xl text-3xl py-6 text-palette-3 font-della;
+  }
+  h3 {
+    @apply md:text-3xl text-xl py-6;
+  }
+  p {
+    @apply md:text-lg py-2 font-merriweather;
+  }
+}
+
+.background {
+  position: fixed;
+  z-index: -50;
+  min-height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  @apply opacity-40 blur-sm;
+}
+
+.bg01 {
+  background-image: url('/bg/bg01.jpg');
+}
+
+.bg02 {
+  background-image: url('/bg/bg02.jpg');
+}
+
+.bg03 {
+  background-image: url('/bg/bg03.jpg');
+}
+
+.bg04 {
+  background-image: url('/bg/bg04.jpg');
+}
