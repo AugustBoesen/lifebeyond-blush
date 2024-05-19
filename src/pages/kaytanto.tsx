@@ -85,7 +85,7 @@ export default function About() {
         </p>
         <h2>Ikäraja</h2>
         <p>
-          Pelin ikäraja on k18/17. Tämä toimii niin, että 17 vuotiaat voivat
+          Pelin ikäraja on k18/17. Tämä toimii niin, että 17-vuotiaat voivat
           päästä peliin pelinjohdon harkinnan mukaan:
         </p>
         <ul>
@@ -115,21 +115,23 @@ export default function About() {
           Discord-kanavan kautta. Discordiin liittyminen ei ole pakollista,
           mutta se on suositeltua erityisesti kanssapelaajien välisen
           kommunikoinnin helpottamiseksi. Discord on pelaajien käytössä myös
-          pelin jälkeiseen keskusteluun ja fiilistelyyn.Oleellinen info pelistä
+          pelin jälkeiseen keskusteluun ja fiilistelyyn. Oleellinen info pelistä
           löytyy myös nettisivuilta.
         </p>
         <p>
           Pelin pääjärjestäjän saa kiinni sähköpostitse mirka.muratti@gmail.com
           tai Discordissa @darayka. Pelin virallinen sähköposti kulkee
-          osoitteesta lifebeyond@gmail.com Facebookissa järjestäjille ei
-          lähtökohtaisesti kannata lähettää viestiä, sillä ne eivät välttämättä
-          tule lainkaan läpi.
+          osoitteesta enterlifebeyond@gmail.com
         </p>
         <h2>Turvallisuus</h2>
         <p>
           Pelipaikalla on perus ea-tarpeet pelinjohdon puolesta, sekä vähintään
           yksi ensiaputaitoinen pelinjohtaja. Ensiaputaitoiset käydään läpi
-          pelin alussa.{' '}
+          pelin alussa.
+        </p>
+        <p>
+          Facebookissa järjestäjille ei lähtökohtaisesti kannata lähettää
+          viestiä sillä ne eivät välttämättä tule lainkaan läpi.
         </p>
         <p>
           Ota mukaan omat kipulääkkeet ja allergialääkkeet yms, niitä meillä ei
@@ -173,16 +175,14 @@ export default function About() {
         </p>
         <h2>Saavutettavuus</h2>
         <p>
-          Pelipaikka ei ole helposti saavutettavissa pyörätuolilla ja sisältää
-          runsaasti portaita. Pelissä saatetaan käyttää savu- ja/tai
-          usva-koneita. Pelitilat on valaistu osittain hämärästi. Pelissä on
-          paljon myös kirkkaita, värikkäitä ja mahdollisesti vilkkuvia valoja.
-          Sen aikana soitetaan välillä kovaäänistä musiikkia. Pelissä on hyvin
-          pieni (ja kokemuksen mukaan pahan hajuinen) offgame huone. Hiljaisia
-          tiloja ei ikävä kyllä ole tarjolla. Pelissä on käytössä
-          sukupuolittamaton wc-tila. Peli pelataan suomeksi, mutta
-          osallistuminen englannin kielellä on myös järjestettävissä tarpeen
-          mukaan. Pelipaikka on yhteydessä baariin, jossa on tarjolla alkoholia.
+          Jos sinulla on kysyttävää pelin saavutettavuudesta, ole ihmeessä
+          yhteydessä pelinjohtoon! Autamme pelaajia parhaamme mukaan.
+        </p>
+        <p>
+          Pelipaikalla on runsaasti portaita. Pääoven portaissa on ramppi ja
+          sisätilan isoissa portaissa pyörätuolihissi, mutta paikalla voi olla
+          yksittäisiä portaita ja kynnyksiä, jotka eivät ole kuljettavissa
+          pyörätuolilla.
         </p>
         <h2>Pelipaikan baari ja alkoholin käyttö pelissä</h2>
         <p>
@@ -202,6 +202,7 @@ export default function About() {
           pelistä. Alaikäisille alkoholin käyttö tapahtuman aikana on
           ehdottomasti kielletty.{' '}
         </p>
+        <p>Pelissä on käytössä sukupuolittamaton wc-tila sekä inva-wc.</p>
         <p>
           Hahmo voi olla humalassa, vaikka et joisi oikeasti yhtään alkoholia,
           mutta tarkoitus ei ole pelata känniörvellystä.
@@ -216,12 +217,10 @@ export default function About() {
         <p>
           Pelimaksuun sisältyy yksi lämmin ruoka tapahtuman aikana. Ruokailu
           järjestetään buffet-tyylisesti ja ruuan tarjoilee
-          Kulttuurihanat-baari. Ruoka on lähtökohtaisesti vegaanista. Pyrimme
-          tarjoamaan sopivaa ruokaa kaikille, mutta jos sinulla on tiukat
-          ruokarajoitukset, saattaa olla että ravintola ei voi niitä täysin
-          huomioida. Näissä tapauksissa ruuasta sovitaan pelaajan kanssa
-          erikseen. Pelissä on tarjolla myös jonkinlaisia pieniä snackseja,
-          kahvia ja teetä, ja jokainen pelaaja saa baariin yhden drinkkilipun.{' '}
+          Kulttuurihanat-baari. Ruoka on lähtökohtaisesti vegaanista, allergiat
+          ja erityisruokavaliot otetaan huomioon siinä määrin kuin ravintola
+          siihen pystyy. Pelissä on tarjolla myös jonkinlaisia pieniä snackseja,
+          kahvia ja teetä, ja jokainen pelaaja saa baariin yhden drinkkilipun.
         </p>
         <p>
           Pelin hintaan ei sisälly majoitusta. Yöpaikan hankkiminen on jokaisen
@@ -258,7 +257,8 @@ export default function About() {
         <h2>Valokuvaaminen</h2>
         <p>
           Valokuvaamisesta ja kuvien jakamisesta ilmoitetaan tarkemmin
-          lähempänä. Pelissä on valokuvaaja ainakin osan aikaa.
+          lähempänä. Pelissä on valokuvaaja ainakin osan aikaa. Peliä tulee
+          kuvaamaan Tuomas Puikkonen.
         </p>
         <h2>Proppausohjeet</h2>
         <ul>

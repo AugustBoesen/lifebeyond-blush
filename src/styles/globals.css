@@ -6,8 +6,8 @@
   /* The color palette is utilized through tailwind.config.ts */
   --palette-1: #0e0f18;
   --palette-2: #2f334b;
-  --palette-3: #bac1e7;
-  --palette-4: #f6b17a;
+  --palette-3: #e3bae7;
+  --palette-4: #ff7dcd;
 }
 
 @layer base {
@@ -37,6 +37,9 @@
   }
   li {
     @apply md:text-lg py-2 ml-4 font-merriweather list-disc;
+  }
+  a {
+    @apply text-palette-3 hover:text-violet-100 transition-all;
   }
 }
 

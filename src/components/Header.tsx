@@ -9,7 +9,7 @@ export const Header = () => {
   return (
     <header>
       {/* LOGO */}
-      <Image src="/mglogo.png" alt="logo" width={50} height={50} />
+      <Image src="/nllogo.png" alt="logo" width={50} height={50} />
       <div className="absolute -top-24 -left-24 w-48 h-48 bg-black -z-40 border border-palette-4 rotate-45" />
 
       {/* TITLE */}

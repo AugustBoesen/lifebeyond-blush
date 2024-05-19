@@ -16,11 +16,16 @@ export default function Index() {
       <main>
         <h1>Pelaajaksi</h1>
         <p>
+          Pelaajaksi haetaan täyttämällä ilmoittautumislomake. Huomaathan, että
+          pelin ikäraja on 17 vuotta. Alle 18 vuotiaiden osallistuminen
+          harkitaan tapauskohtaisesti.{' '}
+        </p>
+        <p>
           <b>
-            {' '}
-            Pelaajaksi haetaan täyttämällä ilmoittautumislomake. Huomaathan,
-            että pelin ikäraja on 17 vuotta. Alle 18 vuotiaiden osallistuminen
-            harkitaan tapauskohtaisesti.
+            Pelaajahaku sulkeutuu perjantaina 14.6 klo 23:59. Pelaaja- ja
+            esiintyjävalinnat pyritään tekemään kesäkuun aikana. Peliin pääsystä
+            ilmoitetaan kaikille henkilökohtaisesti. Ilmoitamme myös, jos et
+            pääse peliin.
           </b>
         </p>
         <p>
@@ -31,9 +36,11 @@ export default function Index() {
         <p>
           Pelaajat valitaan ilmoittautumislomakkeiden vastausten perusteella*.
           Pyrimme täyttämään pelin niin, että jokainen pelaaja saa mieluisan
-          hahmon, ja jokainen hahmo saa sopivan pelaajan. Nopeudella ei ole
-          merkitystä lomakkeeseen vastatessa; käytä vastauksiesi miettimiseen
-          aikaa. Ilmoitamme myös siitä, jos et pääse peliin.
+          hahmon, ja jokainen hahmo saa sopivan pelaajan. Peliin voi hakea myös
+          vanhalla hahmolla, mutta pelinjohto ei kirjoita niille tähän peliin
+          uutta sisältöä. Nopeudella ei ole merkitystä lomakkeeseen vastatessa;
+          käytä vastauksiesi miettimiseen aikaa. Ilmoitamme myös siitä, jos et
+          pääse peliin.
         </p>
 
         <p>
@@ -104,14 +111,18 @@ export default function Index() {
           </li>
           <li>Pelipaikan siivoukseen osallistumista pelin jälkeen</li>
         </ul>
-        <h3>Hae pelaajaksi tällä lomakkeella: (LINKKI LOMAKKEESEEN)</h3>
+        <h3>
+          <a href="https://forms.gle/tuQWXvWsvp14thdL6">
+            Hae pelaajaksi tällä lomakkeella
+          </a>
+        </h3>
         <h1>ESIINTYJÄKSI</h1>
         <p>
           Pelin keskivaiheilla pidetään noin tunnin mittainen liveshow, joka on
-          osa peliä. Tarkoituksena on tuoda peliin pride-juhlien kaltaista
-          tunnelmaa sekä kokeilla larppauksen ja esittävän taiteen yhdistämistä.
-          Miltä tuntuu esiintyä fiktiiviselle yleisölle, tai millaista on nähdä
-          taidetta hahmon kautta?
+          osa peliä. Tarkoituksena on tuoda peliin pride-juhlien tunnelmaa sekä
+          kokeilla larppauksen ja esittävän taiteen yhdistämistä. Miltä tuntuu
+          esiintyä fiktiiviselle yleisölle, tai millaista on nähdä taidetta
+          hahmon kautta?
         </p>
         <p>
           Peliin kaivataan esiintyjiä, jotka valmistelevat noin 2-5 min
@@ -124,6 +135,23 @@ export default function Index() {
           intohimo jakaa kokemuksiaan taiteen kautta. Pelaajat myös ohjeistetaan
           olemaan kannustavia ja innoissaan, joten suuria suorituspaineita ei
           tarvitse ottaa!
+        </p>
+        <p>
+          Esitysten tyyli voi vaihdella laajastikkin. Emme tarvitse viimeisen
+          päälle siloteltua showta, vaan haluamme luoda lähestyttävän, aidon
+          queer-yhteisön tunnelman. Esitys voi olla tunnelmaltaan melkein mitä
+          vain: se voisi, esimerkiksi, kertoa hahmon raskaista
+          queer-kokemuksista henkilökohtaisen runouden kautta, olla stand-up
+          komiikkaa tähtienvälisen kapitalismin kauheuksista, tai tuoda
+          sateenkaari-identiteetin onnellista ilosanomaa tanssin tai dragin
+          kautta. Voimme auttaa sopivan esityksen valmistelussa, mutta
+          tarvitsemme suurpirteisen idean jo hakuvaiheessa.{' '}
+        </p>
+        <p>
+          Esiintyjähaku sulkeutuu perjantaina 14.6 klo 23:59. Pelaaja- ja
+          esiintyjävalinnat pyritään tekemään kesäkuun aikana. Peliin pääsystä
+          ilmoitetaan kaikille henkilökohtaisesti. Ilmoitamme myös, jos et pääse
+          peliin.
         </p>
         <p>
           <b>Esiintyjiltä odotamme:</b>
@@ -204,7 +232,9 @@ export default function Index() {
           </li>
         </ul>
         <h3>
-          Hae esiintyjä-NPC roolia tällä lomakkeella: (LINKKI LOMAKKEESEEN)
+          <a href="https://forms.gle/vhYi6a29ViBiaGDQ9">
+            Hae esiintyjä-NPC roolia tällä lomakkeella
+          </a>
         </h3>
       </main>
     </div>

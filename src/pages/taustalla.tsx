@@ -67,9 +67,14 @@ export default function Materials() {
           <b>Muu järjestystiimi satunnaisessa järjestyksessä:</b>
         </p>
         <ul>
-          <li>Severi (nettisivut & käytäntö)</li>
-          <li>Vattu (käytäntö)</li>
-          <li>Sara (hahmot)</li>
+          <li>Severi Boesen (liveshow, tekniikka, nettisivut)</li>
+          <li>Vattu Korhonen (käytäntö, hahmonkirjoitus, lavastus)</li>
+          <li>Sara Taskila (hahmonkirjoitus)</li>
+          <li>Mikael Puustjärvi (hahmonkirjoitus)</li>
+          <li>Eelis Simonen (hahmonkirjoitus)</li>
+          <li>Chride Lassheikki (hahmonkirjoitus)</li>
+          <li>Elsiina Tiikkainen (hahmonkirjoitus)</li>
+          <li>Tuomas Puikkonen (pelin valokuvaaja)</li>
         </ul>
         <h2>Yhteistyökumppanit ja sponsorit</h2>
         <p>Tapahtuma järjestetään Suomen Kulttuurirahaston tuella.</p>
