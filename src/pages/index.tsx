@@ -91,6 +91,68 @@ export default function Index() {
           tiettyä teemaa omassa taustassaan, mutta emme voi taata, että teemoja
           ei kohtaisi pelin aikana.
         </p>
+        <h2>Queer-teemojen pelaaminen</h2>
+        <p>
+          Jokainen pelaaja saa tulla peliin omana itsenään. Omaa identiteettiään
+          ei ole pakko kertoa missään vaiheessa, eikä peliä ole rajattu
+          esimerkiksi vain queer-pelaajille. Pelaajan identiteetti ja hahmon
+          identiteetti voivat olla täysin eri. Emme kysy pelaajalta hänen
+          sukupuoltaan tai seksuaalisuuttaan ilmoittautuessa, mutta
+          preferenssejä hahmoon liittyen voi antaa. Pelin suunnittelussa on
+          kiinnitetty erityistä huomiota erilaisten queer- ja vähemmistöteemojen
+          kunnioittavaan esittämiseen. Tiimissä on perehdytty aiheeseen monelta
+          eri kantilta, ja olemme tietoisesti tehneet sen valinnan, että kuka
+          tahansa voi pelata mitä tahansa pelin hahmoa.
+        </p>
+        <p>
+          Itsestä poikkeavien identiteettien pelaamisessa on aina haasteensa ja
+          riskinsä: haluamme painottaa pelaajille sitä, että pelin teemoihin
+          tulee suhtautua kunnioittavasti. Vaikka toisenlaista identiteettiä
+          pelaamalla voi avata omaa ajatteluaan, on riskinä se, että peli
+          vahvistaa olemassaolevia stereotypioita. Siksi peliä edeltävä
+          workshoppaus, pelin jälkeiset debriefit, sekä aktiivinen pelaajien
+          kanssa kommunikointi ovat tärkeitä elementtejä pelin järjestämisessä.
+          Pelissä on lupa (ja jopa suositeltavaa!) tutkia omia ajatuksia
+          sukupuolesta, seksuaalisuudesta ja yhteiskunnan normeista - mutta
+          tärkeää on muistaa, että kyseessä on peli, joka ei vastaa meidän
+          maailmamme todellisuutta.
+        </p>
+        <p>
+          Queer-teemat eivät ole pelin ainoita aktiivisia teemoja, sillä myös
+          erilaiset scifi-teemat ovat isossa osassa pelikokemusta. Osalle
+          hahmoista queer-identiteetti saattaa siis olla todella keskeinen
+          pohdinnan aihe, kun taas toisille se on vain taustapiirre muiden
+          joukossa. Pelissä käytetään pronomini-koodattuja nimilappuja
+          hahmoille. Hahmojen ja pelaajien sukupuoli ei välttämättä ole sama -
+          ethän siis tee oletuksia pelaajan sukupuolesta tämän ulkonäön tai
+          hahmon perusteella.
+        </p>
+        <h2>Seksuaalisuus, romantiikka ja seksi pelissä</h2>
+        <p>
+          Pelissä on runsaasti romanttisia, seksuaalisia ja muunlaisia intiimejä
+          suhteita. Pyrimme jakamaan hahmot niin, että pelaajien välille ei
+          synny todella suurta ikäeroa. Erityistä huolta noudatamme alaikäisten
+          pelaajien hahmojaossa.
+        </p>
+        <p>
+          Pelissä EI ole metatekniikkaa seksin mallinnukselle, eikä seksin
+          pelaaminen varsinaisesti kuulu peliin. Sen sijaan flirttailua,
+          läheisyyttä, suutelua, hierontaa yms intiimiä sisältöä tulee olemaan
+          osalla hahmoista paljonkin. Kaikki fyysinen läheisyys tapahtuu pelin
+          metatekniikoiden puitteissa, eikä kenenkään tarvitse oikeasti vaikkapa
+          suudella toista pelaajaa. Suunnitteluperiaattena on, että kaikki
+          fyysinen kosketus tulee tapahtua niin, että kumpikin pelaaja on asian
+          kanssa ok.s
+        </p>
+        <p>
+          Improvisoidut, hahmoon kirjoittamattomat romanttiset ja seksuaaliset
+          suhteet tulee aloittaa vastapelaajan kanssa hitaasti ja yhteisesti
+          kommunikoiden. Näissä on erityisen tärkeää muistaa huomioida se, että
+          paikalla on paljon nuoria, aloittelevia pelaajia. Parasta olisi
+          varmistaa vielä pelinjohdon kautta, että kuvio on ok, jotta kukaan ei
+          tule vahingossa painostetuksi sellaiseen intiimiin pelaamiseen, jota
+          ei halua.
+        </p>
       </main>
     </div>
   );

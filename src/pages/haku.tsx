@@ -30,7 +30,7 @@ export default function Index() {
         </p>
         <p>
           {' '}
-          <b>Pelin ilmoittautuminen sulkeutuu 30.5 klo 23:59</b>
+          <b>Pelin ilmoittautuminen sulkeutuu 14.6 klo 23:59</b>
         </p>
         <h2>Pelaajien valinta</h2>
         <p>
@@ -193,6 +193,12 @@ export default function Index() {
         </p>
         <ul>
           <li>Show tapahtuu Kulttuurikellarin lavalla </li>
+          <li>
+            Jos tarvitset mukaasi avustajan esim pukeutumista varten, tai jos
+            esityksessäsi on useita ihmisiä, kysy meiltä erikseen kuinka toimia.
+            Palkkio ja matkakorvaus koskee lähtökohtaisesti vain yhtä esiintyjää
+            / esitys, sillä budjetissa on varaa vain viiteen esiintyjään
+          </li>
           <li>
             Älä tuo lavasteita osaksi esitystäsi. Lavaa käytetään pelialueena
             esityksen jälkeen ja mahdollisesti myös sitä ennen

@@ -174,16 +174,20 @@ export default function About() {
           pieni tai suuri tahansa!
         </p>
         <h2>Saavutettavuus</h2>
-        <p>
-          Jos sinulla on kysyttävää pelin saavutettavuudesta, ole ihmeessä
-          yhteydessä pelinjohtoon! Autamme pelaajia parhaamme mukaan.
-        </p>
-        <p>
-          Pelipaikalla on runsaasti portaita. Pääoven portaissa on ramppi ja
-          sisätilan isoissa portaissa pyörätuolihissi, mutta paikalla voi olla
-          yksittäisiä portaita ja kynnyksiä, jotka eivät ole kuljettavissa
-          pyörätuolilla.
-        </p>
+        Jos sinulla on kysyttävää pelin saavutettavuudesta, ole ihmeessä
+        yhteydessä pelinjohtoon! Autamme pelaajia parhaamme mukaan. Pelipaikalla
+        on runsaasti portaita. Pääoven portaissa on ramppi ja sisätilan isoissa
+        portaissa pyörätuolihissi, mutta paikalla voi olla yksittäisiä portaita
+        ja kynnyksiä, jotka eivät ole kuljettavissa pyörätuolilla. Pelissä
+        saatetaan käyttää savu- ja/tai usva-koneita. Pelitilat on valaistu
+        osittain hämärästi. Pelissä on paljon kirkkaita, värikkäitä ja
+        mahdollisesti vilkkuvia valoja. Pelin aikana soitetaan välillä
+        kovaäänistä musiikkia. Pelissä on hyvin pieni (ja kokemuksen mukaan
+        pahan hajuinen) offgame huone. Hiljaisia tiloja ei ikävä kyllä ole
+        tarjolla. Pelissä on käytössä sukupuolittamaton wc-tila sekä inva-wc.
+        Peli pelataan suomeksi, mutta osallistuminen englannin kielellä on myös
+        järjestettävissä tarpeen mukaan. Pelipaikka on yhteydessä baariin, jossa
+        on tarjolla alkoholia.
         <h2>Pelipaikan baari ja alkoholin käyttö pelissä</h2>
         <p>
           Pelin juomatarjoilut (sekä ruokailun) hoitaa Kulttuurihanojen baari.
@@ -202,7 +206,6 @@ export default function About() {
           pelistä. Alaikäisille alkoholin käyttö tapahtuman aikana on
           ehdottomasti kielletty.{' '}
         </p>
-        <p>Pelissä on käytössä sukupuolittamaton wc-tila sekä inva-wc.</p>
         <p>
           Hahmo voi olla humalassa, vaikka et joisi oikeasti yhtään alkoholia,
           mutta tarkoitus ei ole pelata känniörvellystä.
@@ -249,6 +252,12 @@ export default function About() {
           kilometri. Parkkipaikkoja keskustassa on syksyisin yleensä hyvin
           tarjolla. Yhteiskyytien organisointia tehdään Discordin ja Google
           driveen tehtävän kyytilistan avulla.
+        </p>
+        <p>
+          Wanha Pappila tarjoaa Blushin osallistujille tarjoushintaisen
+          majoituksen: kahden yön paketti yhden hengen huoneessa 75e ja kahden
+          hengen huoneessa 60 e (eli siis hinta sisältää kaksi yötä). Hintaan
+          sisältyy myös aamiaiset.{' '}
         </p>
         <p>
           Pelipaikalla tulee olla paikalla ajoissa lauantai-aamuna. Emme voi
