@@ -7,7 +7,7 @@ export default function About() {
   return (
     <div>
       <Head>
-        <title>About | Life Beyond</title>
+        <title>In-game | BLUSH2024</title>
       </Head>
       {/* BACKGROUND IMAGE */}
       <div className="background bg02" style={parallaxStyle}></div>

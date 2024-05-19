@@ -7,7 +7,7 @@ export default function Materials() {
   return (
     <div>
       <Head>
-        <title>Materials | Life Beyond</title>
+        <title>Taustalla | BLUSH2024</title>
       </Head>
       {/* BACKGROUND IMAGE */}
       <div className="background bg05" style={parallaxStyle}></div>

@@ -7,7 +7,7 @@ export default function Index() {
   return (
     <div>
       <Head>
-        <title>Home | Life Beyond</title>
+        <title>Etusivu | BLUSH2024</title>
       </Head>
       {/* BACKGROUND IMAGE */}
       <div className="background bg01" style={parallaxStyle}></div>
