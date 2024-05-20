@@ -9,29 +9,7 @@ export const Footer = () => {
         <p>enterlifebeyond@gmail.com</p>
       </div>
 
-      <div className='flex flex-col'>
-        <Link
-          className='text-pink-600 text-xl font-bold'
-          target='_blank'
-          href='https://blush.lifebeyond.fi/'
-        >
-          BLUSH
-        </Link>
-        <Link
-          className='text-green-600 text-xl font-bold'
-          target='_blank'
-          href='https://gk.lifebeyond.fi/'
-        >
-          Green Knights
-        </Link>
-        <Link
-          className='text-cyan-600 text-xl font-bold'
-          target='_blank'
-          href='https://kuunsilta.lifebeyond.fi/'
-        >
-          Kuunsilta
-        </Link>
-      </div>
+      <div className="flex flex-col"></div>
     </footer>
   );
 };
