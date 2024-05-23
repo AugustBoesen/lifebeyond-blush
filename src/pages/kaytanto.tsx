@@ -10,7 +10,7 @@ export default function About() {
         <title>Kaytanto | BLUSH2024</title>
       </Head>
       {/* BACKGROUND IMAGE */}
-      <div className="background bg03" style={parallaxStyle}></div>
+      <div className='background bg03' style={parallaxStyle}></div>
 
       {/* CONTENT */}
       <main>
@@ -20,8 +20,8 @@ export default function About() {
           Peli järjestetään lauantaina 21.9.2024 Savonlinnan
           Kulttuurikellarilla. KuKen nettisivut:{' '}
           <a
-            className="text-pink-600 hover:text-slate-200 transition-all"
-            href="https://www.kulttuurikellari.com/"
+            className='text-pink-600 hover:text-slate-200 transition-all'
+            href='https://www.kulttuurikellari.com/'
           >
             https://www.kulttuurikellari.com/
           </a>{' '}
@@ -226,6 +226,13 @@ export default function About() {
           kahvia ja teetä, ja jokainen pelaaja saa baariin yhden drinkkilipun.
         </p>
         <p>
+          {' '}
+          Wanha Pappila tarjoaa Blushin osallistujille tarjoushintaisen
+          majoituksen: kahden yön paketti yhden hengen huoneessa 75e ja kahden
+          hengen huoneessa 60 e (eli siis hinta sisältää kaksi yötä). Hintaan
+          sisältyy myös aamiaiset.
+        </p>
+        <p>
           Pelin hintaan ei sisälly majoitusta. Yöpaikan hankkiminen on jokaisen
           sitä tarvitsevan omalla vastuulla.
         </p>
@@ -252,12 +259,6 @@ export default function About() {
           kilometri. Parkkipaikkoja keskustassa on syksyisin yleensä hyvin
           tarjolla. Yhteiskyytien organisointia tehdään Discordin ja Google
           driveen tehtävän kyytilistan avulla.
-        </p>
-        <p>
-          Wanha Pappila tarjoaa Blushin osallistujille tarjoushintaisen
-          majoituksen: kahden yön paketti yhden hengen huoneessa 75e ja kahden
-          hengen huoneessa 60 e (eli siis hinta sisältää kaksi yötä). Hintaan
-          sisältyy myös aamiaiset.{' '}
         </p>
         <p>
           Pelipaikalla tulee olla paikalla ajoissa lauantai-aamuna. Emme voi
